@@ -1,6 +1,6 @@
 Hi, I’m Yong
 
-I’m interested in nonparametric modelling and data science
+I’m interested in Bayesian nonparametric modelling and data science.
 
 
 <!---
